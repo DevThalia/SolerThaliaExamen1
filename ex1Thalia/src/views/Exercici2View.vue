@@ -6,7 +6,7 @@ Utilitza provide i inject per compartir el valor del comptador i les funcions d'
 <template>
     <div>
         <h1>Contador</h1>
-        <p>{{ contador }}</p>
+        <p>El valor del contador es: {{ contador }}</p>
         <BotonSuma />
         <BotonResta />
     </div>
