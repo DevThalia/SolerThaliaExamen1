@@ -1,8 +1,3 @@
-<!-- Implementa un sistema de comptador (ruta /exercici2)
-Crea un comptador amb un botó per incrementar el valor i un altre per restar-lo.
-Utilitza provide i inject per compartir el valor del comptador i les funcions d'increment i decrement entre un component pare i dos components fills (botó sumar i botó restar).
--->
-
 <template>
     <div>
         <h1>Contador</h1>
