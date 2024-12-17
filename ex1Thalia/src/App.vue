@@ -9,3 +9,13 @@
     <RouterView />
   </div>
 </template>
+
+<style>
+  #nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #f1f1f1;
+  }
+
+</style>
